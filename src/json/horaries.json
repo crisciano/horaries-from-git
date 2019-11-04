@@ -9,12 +9,12 @@
 		{
 			"horario" : "8h30",
 			"dias": [
-				{"aula": "" },
+				{"aula": "teste" },
 				{"aula": "teste" },
 				{"aula": "teste" },
 				{"aula": "teste"},
-				{"aula": ""},
-				{"aula": ""}
+				{"aula": "teste"},
+				{"aula": "teste 2"}
 			]
 		},{
 			"horario" : "9h45",
