@@ -256,7 +256,7 @@ function create_planos_mobile(e) {
 //         })
 //     }
 // });
-fetch("../json/horaries.json").then(function(e) {
+fetch("https://raw.githubusercontent.com/crisciano/horaries-from-git/master/src/json/horaries.json").then(function(e) {
     return e.json()
 }).then(function(e) {
     create_horario(e);
