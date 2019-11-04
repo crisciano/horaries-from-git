@@ -1,0 +1,111 @@
+{
+	"id":[
+		"segunda", "terca", "quarta", "quinta", "sexta","sabado"
+	],
+	"header":[
+		"", "segunda", "terça", "quarta", "quinta", "sexta","sábado"
+	],
+	"horarios":[
+		{
+			"horario" : "8h30",
+			"dias": [
+				{"aula": "" },
+				{"aula": "teste" },
+				{"aula": "teste" },
+				{"aula": "teste"},
+				{"aula": ""},
+				{"aula": ""}
+			]
+		},{
+			"horario" : "9h45",
+			"dias": [
+				{"aula": "" },
+				{"aula": "teste 1" },
+				{"aula": "teste 3" },
+				{"aula": "teste 1"},
+				{"aula": "teste 3"},
+				{"aula": "teste 3"}
+			]
+		},{
+			"horario" : "11h",
+			"dias": [
+				{"aula": "" },
+				{"aula": "teste 3" },
+				{"aula": "" },
+				{"aula": "teste 1"},
+				{"aula": "teste 4"},
+				{"aula": "teste 1"}
+			]
+		},{
+			"horario" : "12:30h",
+			"dias": [
+				{"aula": "" },
+				{"aula": "" },
+				{"aula": "" },
+				{"aula": ""},
+				{"aula": ""},
+				{"aula": "teste"}
+			]
+		},{
+			"horario" : "14h",
+			"dias": [
+				{"aula": "" },
+				{"aula": "teste" },
+				{"aula": "" },
+				{"aula": ""},
+				{"aula": "teste 1"},
+				{"aula": ""}
+			]
+		},{
+			"horario" : "15h30",
+			"dias": [
+				{"aula": "" },
+				{"aula": "" },
+				{"aula": "" },
+				{"aula": "teste 1"},
+				{"aula": "teste"},
+				{"aula": ""}
+			]
+		},{
+			"horario" : "17h",
+			"dias": [
+				{"aula": "teste 4" },
+				{"aula": "teste 4" },
+				{"aula": "teste 4" },
+				{"aula": "teste 3"},
+				{"aula": "teste 4"},
+				{"aula": ""}
+			]
+		},{
+			"horario" : "18h30",
+			"dias": [
+				{"aula": "teste 4" },
+				{"aula": "teste 1" },
+				{"aula": "teste 4" },
+				{"aula": "Exotic 1"},
+				{"aula": "teste 3"},
+				{"aula": ""}
+			]
+		},{
+			"horario" : "19h45",
+			"dias": [
+				{"aula": "teste 3" },
+				{"aula": "teste 3" },
+				{"aula": "teste 3" },
+				{"aula": "teste"},
+				{"aula": "teste 4"},
+				{"aula": ""}
+			]
+		},{
+			"horario" : "21h",
+			"dias": [
+				{"aula": "teste 1" },
+				{"aula": "" },
+				{"aula": "teste" },
+				{"aula": "teste 3"},
+				{"aula": ""},
+				{"aula": ""}
+			]
+		}
+	]
+}
