@@ -5,7 +5,9 @@
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "gulp server"
+    "start:dev": "nodemon server.js",
+    "start:gulp": "gulp server",
+    "start": "node server.js"
   },
   "keywords": [
     "gulp",
@@ -27,6 +29,11 @@
     "jshint": "^2.10.2"
   },
   "dependencies": {
-    "gulp-util": "^3.0.8"
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "gulp-util": "^3.0.8",
+    "nodemon": "^1.19.4",
+    "path": "^0.12.7"
   }
 }
