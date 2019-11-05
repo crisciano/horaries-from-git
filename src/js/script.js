@@ -88,7 +88,9 @@ function reorganizar_array(e) {
         });
         o.appendChild(a);
         r.appendChild(o);
-        // i.appendChild(r)
+        i.appendChild(r);
+        console.log(i);
+        console.log(r);
     })
 }
 
